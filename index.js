@@ -3,5 +3,5 @@ function sayHello() {
 }
 
 function main() {
-    sayHello();
+    // sayHello();
 }
